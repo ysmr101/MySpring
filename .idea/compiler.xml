@@ -6,19 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sfg-di (3)" />
+        <module name="sfg-di (2)" />
         <module name="sfg-di (1) (guru.springframework)" />
-        <module name="sfg-di (2) (com.example)" />
+        <module name="quotes" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sfg-di" target="17" />
+      <module name="sfg-di (2) (com.example)" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="quotes" options="-parameters" />
       <module name="sfg-di" options="-parameters" />
       <module name="sfg-di (1) (guru.springframework)" options="-parameters" />
+      <module name="sfg-di (2)" options="-parameters" />
       <module name="sfg-di (2) (com.example)" options="-parameters" />
+      <module name="sfg-di (3)" options="-parameters" />
     </option>
   </component>
 </project>
