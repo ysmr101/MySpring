@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a9cfb63-953b-4d97-9daa-91bb62c5de18" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/bookstoreui.iml" afterDir="false" />
