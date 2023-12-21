@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a9cfb63-953b-4d97-9daa-91bb62c5de18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bookstoreui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/1.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/2.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.gz.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/0.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/1.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/2.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.gz.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/app/_not-found_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/app/favicon.ico/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/app/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/app/not-found_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/app/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/app/page_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/vendor-chunks/@swc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/vendor-chunks/next.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/webpack-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/app-pages-internals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/app/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/app/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/app/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/main-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/webpack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/css/app/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/media/05a31a2ca4975f99-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/media/513657b02c5c193f-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/media/51ed15f9841b9f9d-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/media/c9a5bc6a7c948fb0-s.p.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/media/d6b16ce4a6175f26-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/media/ec159349637c90ad-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/media/fd4db3eb5472fc27-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/633457081244afec._.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/types/app/layout.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/types/app/page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/src/main/java/org/example/bookstore/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BookStore/src/main/java/org/example/bookstore/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring5-mvc-rest" beforeDir="false" afterPath="$PROJECT_DIR$/../spring5-mvc-rest" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ZrLjcmW76mhSZHdfWFFTQey9HT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a9cfb63-953b-4d97-9daa-91bb62c5de18" name="Changes" comment="" />
+      <created>1703175388017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703175388017</updated>
+      <workItem from="1703175389240" duration="453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
